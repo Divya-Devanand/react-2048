@@ -69,6 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+How to run the code:
 
+- pull the code
+- run npm install
+- then --> npm start (http://localhost:3000/)
+- A page with input field opens up
+- onKeyDown event is passed in input field. Open the console in the web page.
+- click on the input field and press the arrow keys.
+- every time an arrow key is pressed, a new array is printed in the console.
+- the array can be tracked this way
 
 
