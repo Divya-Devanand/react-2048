@@ -90,7 +90,7 @@ const Game = () => {
     <input onKeyDown={onKeyPress} /> // click here, and use arrow keys
     <div className="matrix">
         {board.map((row, i) => (
-          <div key={i}>
+          <div key={i} className="row">
             {row.map((col, j) => (
               <span key={j}>{col}</span>
             ))}
