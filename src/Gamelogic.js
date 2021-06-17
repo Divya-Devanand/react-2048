@@ -101,6 +101,9 @@ export const getEmptyBoard = () => [
 
 
   // code for moveRight 
+
+  // basically we reverse the matrix, execute left function, then reverse it back --> we get the right matrix
+  
   export const moveRight = (board) => {
     const reversedBoard = reverse(board); //reverse the matrix
     const newBoard = moveLeft(reversedBoard); // get matrix for left press
