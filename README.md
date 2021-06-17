@@ -83,9 +83,9 @@ How to run the code:
 - run npm install
 - then --> npm start (http://localhost:3000/)
 - A page with input field opens up
-- onKeyDown event is passed in input field. Open the console in the web page.
-- click on the input field and press the arrow keys.
-- every time an arrow key is pressed, a new array is printed in the console.
-- the array can be tracked this way
+- onKeyDown event is passed in input field. 
+- click on the input field and press the arrow keys. The matrix updates as the arrow keys are pressed
+- The matrix updates as the arrow keys are pressed
+
 
 
