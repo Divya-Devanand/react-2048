@@ -71,12 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 **Code Logic for each key press:**
+![moveLeft](https://user-images.githubusercontent.com/56723801/122357698-956af180-cf71-11eb-93cf-ae59ab02da65.jpg)
+![moveRight](https://user-images.githubusercontent.com/56723801/122357702-969c1e80-cf71-11eb-83ca-5ddc77521f7c.jpg)
+![moveUp](https://user-images.githubusercontent.com/56723801/122357705-9734b500-cf71-11eb-9d81-3628d8bf436e.jpg)
+![moveDown](https://user-images.githubusercontent.com/56723801/122357683-91d76a80-cf71-11eb-81ed-9b41034575b3.jpg)
 
-
-![moveLeft](https://user-images.githubusercontent.com/56723801/122355377-779c8d00-cf6f-11eb-8449-478e448b60e4.jpg)
-![moveRight](https://user-images.githubusercontent.com/56723801/122355506-926f0180-cf6f-11eb-8f8b-64f138ebbdeb.jpg)
-![moveDown](https://user-images.githubusercontent.com/56723801/122355479-8e42e400-cf6f-11eb-8bc7-1eeb66df5fb3.jpg)
-![moveUp](https://user-images.githubusercontent.com/56723801/122355509-926f0180-cf6f-11eb-9a56-a388467e36de.jpg)
 
 How to run the code:
 
